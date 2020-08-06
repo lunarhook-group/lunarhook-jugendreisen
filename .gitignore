@@ -2,3 +2,5 @@
 /build/*
 .dart*
 .idea*
+.packages
+.last_build_id
